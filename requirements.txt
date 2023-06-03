@@ -1,0 +1,71 @@
+blis==0.7.9
+brotlipy==0.7.0
+catalogue==2.0.8
+certifi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_5c4sjwommo/croot/certifi_1683875376620/work/certifi
+cffi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_ab19r4bji3/croot/cffi_1670423206034/work
+chardet==5.1.0
+charset-normalizer==3.1.0
+click==8.1.3
+confection==0.0.4
+contourpy==1.0.7
+cryptography @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_a9zjqvif1f/croot/cryptography_1677533099634/work
+cycler==0.11.0
+cymem==2.0.7
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl
+filelock @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_20tv0lrp8x/croot/filelock_1672387134240/work
+fonttools==4.39.4
+fsspec==2023.5.0
+gitdb==4.0.10
+GitPython==3.1.31
+gmpy2 @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/croot-muov7gw1/gmpy2_1645462616268/work
+idna @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_771olrhiqw/croot/idna_1666125579282/work
+Jinja2 @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_9fjgzv9ant/croot/jinja2_1666908141308/work
+joblib==1.2.0
+kiwisolver==1.4.4
+langcodes==3.3.0
+MarkupSafe==2.1.2
+matplotlib==3.7.1
+mpmath==1.2.1
+murmurhash==1.0.9
+networkx @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_e870v6zw3n/croot/networkx_1678964339016/work
+nltk==3.8.1
+numpy @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f9f5xs2fx0/croot/numpy_and_numpy_base_1682520577456/work
+opencv-python==4.7.0.72
+packaging==23.1
+pandas==2.0.2
+pathy==0.10.1
+Pillow==9.5.0
+preshed==3.0.8
+psutil==5.9.5
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydantic==1.10.8
+pyOpenSSL @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_38h4axtq38/croot/pyopenssl_1677607699670/work
+pyparsing==3.0.9
+PySocks @ file:///Users/ktietz/ci_310/pysocks_1643961536721/work
+python-dateutil==2.8.2
+pytz==2023.3
+PyYAML @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_8dd_9u21zz/croot/pyyaml_1670514759576/work
+regex==2023.5.5
+requests==2.31.0
+scipy==1.10.1
+seaborn==0.12.2
+six==1.16.0
+smart-open==6.3.0
+smmap==5.0.0
+spacy==3.5.3
+spacy-legacy==3.0.12
+spacy-loggers==1.0.4
+srsly==2.4.6
+sympy @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_21kpmugwgm/croot/sympy_1668202392692/work
+thinc==8.1.10
+torch==2.1.0.dev20230601
+torchaudio==2.1.0.dev20230601
+torchvision==0.16.0.dev20230601
+tqdm==4.65.0
+typer==0.7.0
+typing_extensions==4.6.3
+tzdata==2023.3
+ultralytics==8.0.112
+urllib3==2.0.2
+utils==1.0.1
+wasabi==1.1.1
